@@ -1,6 +1,6 @@
 ### Salve Devs 👋
 
-- 🔭 Trabalho como professor de Geografia, mas, também sou Desenvolvedor e Designer
+- 🔭 Professor de Geografia, Desenvolvedor Full Stack e Designer
 - 🌱 Estou estudando React e Node JS
 
 <div align="center">
