@@ -1,7 +1,8 @@
 ### Salve Devs 👋
 
 - 🔭 Professor de Geografia, Desenvolvedor Full Stack e Designer
-- 🌱 Estou estudando React e Node JS
+- 🚀 Desenvolvendo Projetos Web e de Robótica
+- 🌱 Desenvolvedor de Jogos e Materiais Educacionais
 
 <div align="center">
   <a href="https://github.com/edsonmaia">
